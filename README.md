@@ -1,3 +1,5 @@
+# Practica 2 
+### Se encuentra resuelto lo soliictado en: Práctica 2: Uso de una herramienta para desplegar un modelo de Inteligencia Artificial
 # clase006
 
 1. Instalar las librerías del proyecto, mediante el archivo requiments.txt 
